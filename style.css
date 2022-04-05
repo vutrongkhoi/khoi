@@ -6,7 +6,7 @@
 .banner{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(/277594050_1394768537640892_3346167178118040083_n.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(277594050_1394768537640892_3346167178118040083_n.jpg);
     background-size: contain;
     background-position: center top;
 }
